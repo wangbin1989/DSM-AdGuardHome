@@ -1,0 +1,14 @@
+{
+    ".url": {
+        "com.synocommunity.packages.AdGuardHome": {
+            "type": "url",
+            "icon": "images/AdGuardHome-{0}.png",
+            "title": "AdGuardHome",
+            "desc": "AdGuardHome Web UI",
+            "url": "/aghome",
+            "allUsers": true,
+            "protocol": "http",
+            "port": "80"
+        }
+    }
+}

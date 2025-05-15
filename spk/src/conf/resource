@@ -1,0 +1,15 @@
+{
+    "web-config": {
+        "nginx-static-config": {
+            "enable": [
+                {
+                    "type": "www",
+                    "relpath": "synology/alias-aghome",
+                    "alias": [
+                        "aghome"
+                    ]
+                }
+            ]
+        }
+    }
+}
